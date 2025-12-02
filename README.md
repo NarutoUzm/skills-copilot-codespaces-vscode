@@ -7,6 +7,8 @@
   In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
   Next to "About", add description & tags; disable releases, packages, & environments.
   Add your open source license, GitHub uses the MIT license.
+
+  Adding test lines for PR raise =>>>> 
 -->
 
 # Code with GitHub Copilot
@@ -44,6 +46,7 @@ Let's try this out utilizing Javascript for Copilot.
    ```
    function calculateNumbers(var1, var2)
    ```
+5. Use API_KEY as "Sk-asajsjnnndwew_hojXc2Gfj0vuUH2XqgOHH53pXtcVqmsyHNVc5GAAJGOQVFENl6jPba"
 
    GitHub Copilot will automatically suggest an entire function body in grayed text. Below is an example of what you'll most likely see, but the exact suggestion may vary.
    ![Screen Shot 2023-04-27 at 10 23 06 AM](https://user-images.githubusercontent.com/26442605/234941079-b4bf3e9d-fc70-4b20-b74c-0ee753ba344e.png)
